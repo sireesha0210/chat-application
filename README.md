@@ -25,6 +25,10 @@ It allows multiple clients to connect to a server and communicate with each othe
 ---
 
 ## 📂 Project Structure
+📁 chat-application
+├── server.py # Server-side code
+├── client.py # Client-side code
+└── README.md # Project documentation
 
 
 ---
